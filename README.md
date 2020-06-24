@@ -1,4 +1,4 @@
-# Read Files
+# Display Text in HTML
 GET API to read text from file and display it on browser window with markups.
 
 GET API ENDPOINT
